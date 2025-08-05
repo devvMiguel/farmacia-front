@@ -2,18 +2,16 @@ function Navbar() {
     return (
         <>
             <div className='w-full flex justify-center py-4
-            			   bg-blue-500 text-white'>
+            			   bg-black text-white'>
             
                 <div className="container flex justify-between text-lg">
                     Blog Pessoal
 
-                    <div className='flex gap-4'>
-                        Postagens
-                        Temas
-                        Cadastrar tema
-                        Perfil
-                        Sair
+                    <div className='flex gap-10'>
+                        <span>Categorias</span>
+                        <span>Cadastrar Categoria</span>
                     </div>
+
                 </div>
             </div>
         </>
