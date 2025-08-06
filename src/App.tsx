@@ -5,7 +5,7 @@ import ListaCategorias from './components/categorias/listacategorias/ListaCatego
 import Footer from './components/footer/Footer'
 import Navbar from './components/navbar/Navbar'
 import Home from './pages/home/Home'
-import DeletarCategoria from './components/categorias/deletartema/DeletarTema'
+import DeletarCategoria from './components/categorias/deletarcategoria/DeletarCategoria'
 
 function App() {
   return (
